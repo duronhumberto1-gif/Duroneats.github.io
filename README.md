@@ -28,16 +28,16 @@
         </a>
     </nav>
 <header>
-<h1><span class="tab-desk">&#9836;</span> Strike a Chord <span class="tab-desk">&#9836;</span></h1>
+<h1><span class="tab-desk">&#9836;</span> DuronEats <span class="tab-desk">&#9836;</span></h1>
 </header>
 
 <nav class="tab-desk">
     <ul>
     <li><a href= "index.html">Home</a>
-<a href= "lessons.html">Lessons</a>
-<a href= "instructors.html">Instructors</a>
-<a href= "rentals.html">Rentals</a>
-<a href= "contact.html">Contact</a>Contact</li>
+<a href= "menu.html">Lessons</a>
+<a href= "contact.html">Instructors</a>
+<a href= "socials.html">Rentals</a>
+<a href= "about.html">Contact</a>Contact</li>
 </ul>
     </nav>
 
@@ -48,9 +48,9 @@
 
 <footer>
 <div class="copyright">
-    <p>&copy; Copyright 2021. All Rights Reserved.</p>
-    <p><a href="mailto:lessons@strikeachord.net">lessons@strikeachord.net</a></p>
-<a href="mailto:lessons@strikeachord.net">lessons@strikeachord.net</a>
+    <p>&copy; Copyright 2025. All Rights Reserved.</p>
+    <p><a href="Duronhumberto1@gmail.com">Duronhumberto1@gmail.com</a></p>
+<a href="Duronhumberto1@gmail.com">Duronhumberto1@gmail.com</a>
 </div>
 
 <div class="social">
