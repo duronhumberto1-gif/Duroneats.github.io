@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/styles.css"> 
+    <title>DuronEats</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" sizes="192x192" href="images/android-chrome-192.png">
+</head>
+<body>
+<!-- Mobile Nav -->  
+    <nav class="mobile-nav">
+        <div id="menu-links">
+            <a href="index.html">Home</a>
+            <a href="menu.html">Lessons</a>
+            <a href="contact.html">Instructors</a>
+            <a href="socials.html">Rentals</a>
+            <a href="about.html">Contact Us</a>
+        </div>
+        <a class="menu-icon" onclick="hamburger()">
+            <div>&#9776;</div>
+        </a>
+    </nav>
+<header>
+<h1><span class="tab-desk">&#9836;</span> Strike a Chord <span class="tab-desk">&#9836;</span></h1>
+</header>
+
+<nav class="tab-desk">
+    <ul>
+    <li><a href= "index.html">Home</a>
+<a href= "lessons.html">Lessons</a>
+<a href= "instructors.html">Instructors</a>
+<a href= "rentals.html">Rentals</a>
+<a href= "contact.html">Contact</a>Contact</li>
+</ul>
+    </nav>
+
+<!-- Use the main area to add the main content to the webpage -->
+<main>
+<div></div>
+</main>
+
+<footer>
+<div class="copyright">
+    <p>&copy; Copyright 2021. All Rights Reserved.</p>
+    <p><a href="mailto:lessons@strikeachord.net">lessons@strikeachord.net</a></p>
+<a href="mailto:lessons@strikeachord.net">lessons@strikeachord.net</a>
+</div>
+
+<div class="social">
+    <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+        <img src="images/facebook-logo.png" alt="Facebook logo">
+
+    <a href="https://www.twitter.com" target="_blank">
+        <img src="images/twitter-logo.png" alt="Twitter logo">
+    </a>
+</div>
+</footer>   
+<script src="scripts/script.js"></script>
+</body>
+</html>
